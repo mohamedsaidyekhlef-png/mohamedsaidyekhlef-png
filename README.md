@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Mohamed Said Yekhlef. I build AI agents, then run companies on them. Founder of SettlementDecisions, Surplus Clock and AuthorsPack." width="100%">
+  <img src="assets/banner-light.svg" alt="Mohamed Said Yekhlef. AI engineer, senior GEO expert and finance analyst. Founder of SettlementDecisions, Surplus Clock and AuthorsPack." width="100%">
 </picture>
 
 <p>
@@ -8,9 +8,9 @@
   <a href="mailto:mohamedsaidyekhlef@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-2F5BEA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Most people building AI agents are still waiting for a customer to try them. I skip that step: I build the agents, then I start the company that runs on them.
+I work where three skills meet: **building AI systems**, **getting businesses found in AI answers**, and **reading the numbers behind a decision**.
 
-That's how I ended up founding three businesses from Tetouan, each in a field where decisions involve real money and real paperwork: structured settlements, Florida tax deed surplus, and book publishing. The agents do the reading, the research and the busywork. People make the calls, with every recommendation showing where it came from.
+Most founders have one of those and hire for the rest. Having all three is why my companies sit in fields where money and trust are on the line: structured settlements, Florida tax deed surplus, and book publishing. The AI does the reading and the research, GEO brings the right people in, and the finance work makes sure the deal actually makes sense.
 
 I've been teaching myself computing since 2005. I still write the code.
 
@@ -45,15 +45,13 @@ AI publishing production. Upload a manuscript and agent pipelines handle formatt
 
 <br>
 
-## How I build
+## What I do
 
-**Agents with a job description.** Each agent has one role, the tools for it, and a hand-off to the next. Then checks between every step, because an agent that is confidently wrong costs more than no agent.
+**AI engineering** — agents with one job each, the tools for it, and checks between every step. Automation that runs without babysitting. Fine-tuned open models where cost, privacy or accuracy demand it; frontier models where reasoning does.
 
-**Automation that runs without me.** Research, enrichment, outreach and reporting pipelines on a schedule. If I have to babysit it, it isn't finished.
+**GEO, senior level** — Generative Engine Optimization: making brands the answer that ChatGPT, Perplexity, Gemini and Google AI Overviews cite and recommend. Content built to be quoted, structured data, AI-visibility tracking, and the classic SEO underneath it.
 
-**Decisions you can audit.** In settlements and surplus funds, an answer nobody can trace is not an answer. Everything cites its source.
-
-**Own the model when it matters.** Fine-tuned open models where cost, privacy or accuracy demand it; frontier models where reasoning does.
+**Finance analysis** — cash flows, valuations, unit economics and risk. I model the deal before I build the product, and every number in a recommendation has to trace back to its source.
 
 <br>
 
@@ -88,7 +86,7 @@ Your agent wrote 2,000 lines. Review them in two minutes. diffplay turns any pul
 
 ## Let's talk
 
-Partnerships, investment, or a problem where an AI decision has to hold up to scrutiny: **[connect on LinkedIn](https://www.linkedin.com/in/mohamed-said-yekhlef-476306216/)** or **[email me](mailto:mohamedsaidyekhlef@gmail.com)**. I work in English, French and Arabic.
+Partnerships, investment, a brand that needs to show up in AI answers, or a decision that has to hold up to the numbers: **[connect on LinkedIn](https://www.linkedin.com/in/mohamed-said-yekhlef-476306216/)** or **[email me](mailto:mohamedsaidyekhlef@gmail.com)**. I work in English, French and Arabic.
 
 <br>
 
