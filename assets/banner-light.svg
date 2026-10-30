@@ -1,43 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Mohamed Said Yekhlef. AI engineer, senior GEO expert and finance analyst. Founder of SettlementDecisions, Surplus Clock and AuthorsPack.">
-<rect width="1280" height="360" rx="18" fill="#F6F7FA"/>
-<g transform="translate(1110 180) scale(0.7) translate(-1010 -180)"><line x1="1010" y1="180" x2="1010.0" y2="92.6" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="1010" y1="180" x2="1099.9" y2="124.1" stroke="#2F5BEA" stroke-width="2.2"/>
-<line x1="1010" y1="180" x2="1128.9" y2="201.2" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="1010" y1="180" x2="1058.6" y2="258.7" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="1010" y1="180" x2="961.4" y2="258.7" stroke="#2F5BEA" stroke-width="2.2"/>
-<line x1="1010" y1="180" x2="898.9" y2="199.8" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="1010" y1="180" x2="919.3" y2="123.6" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="1010.0" y1="92.6" x2="1065.0" y2="69.8" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="1099.9" y1="124.1" x2="1158.1" y2="111.3" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="1128.9" y1="201.2" x2="1206.0" y2="178.3" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="1128.9" y1="201.2" x2="1169.4" y2="249.7" stroke="#2F5BEA" stroke-width="2.2"/>
-<line x1="1058.6" y1="258.7" x2="1074.5" y2="297.4" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="961.4" y1="258.7" x2="951.2" y2="297.9" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="898.9" y1="199.8" x2="861.9" y2="248.7" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="898.9" y1="199.8" x2="827.0" y2="181.6" stroke="#2F5BEA" stroke-width="2.2"/>
-<line x1="919.3" y1="123.6" x2="851.5" y2="110.7" stroke="#D5DBE5" stroke-width="1.2"/>
-<line x1="919.3" y1="123.6" x2="949.1" y2="69.1" stroke="#D5DBE5" stroke-width="1.2"/>
-<circle cx="1065.0" cy="69.8" r="4" fill="#D5DBE5"/>
-<circle cx="1158.1" cy="111.3" r="4" fill="#D5DBE5"/>
-<circle cx="1206.0" cy="178.3" r="4" fill="#D5DBE5"/>
-<circle cx="1169.4" cy="249.7" r="4" fill="#D5DBE5"/>
-<circle cx="1074.5" cy="297.4" r="4" fill="#D5DBE5"/>
-<circle cx="951.2" cy="297.9" r="4" fill="#D5DBE5"/>
-<circle cx="861.9" cy="248.7" r="4" fill="#D5DBE5"/>
-<circle cx="827.0" cy="181.6" r="4" fill="#D5DBE5"/>
-<circle cx="851.5" cy="110.7" r="4" fill="#D5DBE5"/>
-<circle cx="949.1" cy="69.1" r="4" fill="#D5DBE5"/>
-<circle cx="1010.0" cy="92.6" r="8" fill="#F6F7FA" stroke="#566175" stroke-width="2"/>
-<circle cx="1099.9" cy="124.1" r="8" fill="#2F5BEA" stroke="#2F5BEA" stroke-width="2"/>
-<circle cx="1128.9" cy="201.2" r="8" fill="#F6F7FA" stroke="#566175" stroke-width="2"/>
-<circle cx="1058.6" cy="258.7" r="8" fill="#14935F" stroke="#566175" stroke-width="2"/>
-<circle cx="961.4" cy="258.7" r="8" fill="#2F5BEA" stroke="#2F5BEA" stroke-width="2"/>
-<circle cx="898.9" cy="199.8" r="8" fill="#F6F7FA" stroke="#566175" stroke-width="2"/>
-<circle cx="919.3" cy="123.6" r="8" fill="#F6F7FA" stroke="#566175" stroke-width="2"/>
-<circle cx="1010" cy="180" r="16" fill="#141B2A"/><circle cx="1010" cy="180" r="6" fill="#F6F7FA"/>
-</g><g font-family="Schibsted Grotesk, Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">
-<text x="64" y="112" font-size="66" font-weight="800" letter-spacing="-1.4" fill="#141B2A">Mohamed Said Yekhlef</text>
-<text x="64" y="172" font-size="34" font-weight="500" fill="#141B2A">AI engineer · Senior GEO expert · Finance analyst</text>
-<text x="64" y="220" font-size="22" fill="#566175">Founder · SettlementDecisions · Surplus Clock · AuthorsPack</text>
-<text x="64" y="300" font-size="22" fill="#566175">Tetouan, Morocco  ·  العربية · Français · English</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Mohamed Said Yekhlef. AI engineer, senior GEO expert and finance analyst. Founder of SettlementDecisions, Surplus Clock and AuthorsPack."><style>
+.pulse{animation:p 2.6s ease-in-out infinite}.flow{stroke-dasharray:6 8;animation:f 1.6s linear infinite}
+.d2{animation-delay:.9s}.d3{animation-delay:1.7s}
+@keyframes p{0%,100%{opacity:1}50%{opacity:.35}}@keyframes f{to{stroke-dashoffset:-28}}
+@media (prefers-reduced-motion:reduce){.pulse,.flow{animation:none}}
+</style><rect width="1280" height="360" rx="18" fill="#F6F7FA"/><g transform="translate(1110 180) scale(0.7) translate(-1010 -180)"><line x1="1010" y1="180" x2="1010.0" y2="90.3" stroke="#D5DBE5" stroke-width="1.2"/><line x1="1010" y1="180" x2="1105.4" y2="125.5" stroke="#2F5BEA" stroke-width="2.4" class="flow"/><line x1="1010" y1="180" x2="1119.2" y2="199.8" stroke="#D5DBE5" stroke-width="1.2"/><line x1="1010" y1="180" x2="1060.3" y2="253.1" stroke="#D5DBE5" stroke-width="1.2"/><line x1="1010" y1="180" x2="965.3" y2="260.1" stroke="#2F5BEA" stroke-width="2.4" class="flow d2"/><line x1="1010" y1="180" x2="899.8" y2="200.5" stroke="#D5DBE5" stroke-width="1.2"/><line x1="1010" y1="180" x2="918.5" y2="129.9" stroke="#2F5BEA" stroke-width="2.4" class="flow d3"/><line x1="1010.0" y1="90.3" x2="1064.1" y2="65.1" stroke="#D5DBE5" stroke-width="1.2"/><circle cx="1064.1" cy="65.1" r="4" fill="#D5DBE5"/><line x1="1105.4" y1="125.5" x2="1161.3" y2="111.6" stroke="#D5DBE5" stroke-width="1.2"/><circle cx="1161.3" cy="111.6" r="4" fill="#D5DBE5"/><line x1="1119.2" y1="199.8" x2="1192.0" y2="178.3" stroke="#D5DBE5" stroke-width="1.2"/><circle cx="1192.0" cy="178.3" r="4" fill="#D5DBE5"/><line x1="1119.2" y1="199.8" x2="1175.1" y2="251.5" stroke="#D5DBE5" stroke-width="1.2"/><circle cx="1175.1" cy="251.5" r="4" fill="#D5DBE5"/><line x1="1060.3" y1="253.1" x2="1068.4" y2="296.8" stroke="#D5DBE5" stroke-width="1.2"/><circle cx="1068.4" cy="296.8" r="4" fill="#D5DBE5"/><line x1="965.3" y1="260.1" x2="953.3" y2="294.9" stroke="#D5DBE5" stroke-width="1.2"/><circle cx="953.3" cy="294.9" r="4" fill="#D5DBE5"/><line x1="899.8" y1="200.5" x2="849.9" y2="255.4" stroke="#D5DBE5" stroke-width="1.2"/><circle cx="849.9" cy="255.4" r="4" fill="#D5DBE5"/><line x1="899.8" y1="200.5" x2="811.0" y2="181.8" stroke="#D5DBE5" stroke-width="1.2"/><circle cx="811.0" cy="181.8" r="4" fill="#D5DBE5"/><line x1="918.5" y1="129.9" x2="858.8" y2="108.9" stroke="#D5DBE5" stroke-width="1.2"/><circle cx="858.8" cy="108.9" r="4" fill="#D5DBE5"/><line x1="1010.0" y1="90.3" x2="952.0" y2="65.0" stroke="#D5DBE5" stroke-width="1.2"/><circle cx="952.0" cy="65.0" r="4" fill="#D5DBE5"/><circle cx="1010.0" cy="90.3" r="9" fill="#F6F7FA" stroke="#566175" stroke-width="2"/><circle class="pulse" cx="1105.4" cy="125.5" r="9" fill="#2F5BEA" stroke="#2F5BEA" stroke-width="2"/><circle cx="1119.2" cy="199.8" r="9" fill="#F6F7FA" stroke="#566175" stroke-width="2"/><circle class="pulse" cx="1060.3" cy="253.1" r="9" fill="#14935F" stroke="#14935F" stroke-width="2"/><circle class="pulse" cx="965.3" cy="260.1" r="9" fill="#C98A06" stroke="#C98A06" stroke-width="2"/><circle cx="899.8" cy="200.5" r="9" fill="#F6F7FA" stroke="#566175" stroke-width="2"/><circle class="pulse" cx="918.5" cy="129.9" r="9" fill="#6D4AE0" stroke="#6D4AE0" stroke-width="2"/><circle cx="1010" cy="180" r="17" fill="#141B2A"/><circle cx="1010" cy="180" r="6" fill="#F6F7FA"/></g><g font-family="Schibsted Grotesk, Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif"><text x="64" y="112" font-size="66" font-weight="800" letter-spacing="-1.4" fill="#141B2A">Mohamed Said Yekhlef</text><text x="64" y="172" font-size="34" font-weight="500" fill="#141B2A">AI engineer · Senior GEO expert · Finance analyst</text><text x="64" y="220" font-size="22" fill="#566175">Founder · SettlementDecisions · Surplus Clock · AuthorsPack</text><text x="64" y="300" font-size="22" fill="#566175">Tetouan, Morocco  ·  العربية · Français · English</text></g></svg>
