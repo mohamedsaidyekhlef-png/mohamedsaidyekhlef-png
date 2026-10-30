@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Mohamed Said Yekhlef, founder of SCAIROS: AI systems for insurance and risk analysis">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Mohamed Said Yekhlef. I build AI agents, then run companies on them. Founder of SCAIROS, SettlementDecisions, Surplus Clock and AuthorsPack.">
 <rect width="1280" height="360" rx="18" fill="#F6F7FA"/>
-<g transform="translate(1135 180) scale(0.72) translate(-1010 -180)"><line x1="1010" y1="180" x2="1010.0" y2="92.6" stroke="#D5DBE5" stroke-width="1.2"/>
+<g transform="translate(1110 180) scale(0.7) translate(-1010 -180)"><line x1="1010" y1="180" x2="1010.0" y2="92.6" stroke="#D5DBE5" stroke-width="1.2"/>
 <line x1="1010" y1="180" x2="1099.9" y2="124.1" stroke="#2F5BEA" stroke-width="2.2"/>
 <line x1="1010" y1="180" x2="1128.9" y2="201.2" stroke="#D5DBE5" stroke-width="1.2"/>
 <line x1="1010" y1="180" x2="1058.6" y2="258.7" stroke="#D5DBE5" stroke-width="1.2"/>
@@ -37,7 +37,7 @@
 <circle cx="1010" cy="180" r="16" fill="#141B2A"/><circle cx="1010" cy="180" r="6" fill="#F6F7FA"/>
 </g><g font-family="Schibsted Grotesk, Inter, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">
 <text x="64" y="112" font-size="66" font-weight="800" letter-spacing="-1.4" fill="#141B2A">Mohamed Said Yekhlef</text>
-<text x="64" y="172" font-size="34" font-weight="500" fill="#141B2A">Founder of SCAIROS. AI systems for insurance &amp; risk.</text>
-<text x="64" y="222" font-size="26" fill="#566175">Agents · Automation · Decision systems</text>
+<text x="64" y="172" font-size="34" font-weight="500" fill="#141B2A">I build AI agents, then run companies on them.</text>
+<text x="64" y="220" font-size="22" fill="#566175">Founder · SCAIROS · SettlementDecisions · Surplus Clock · AuthorsPack</text>
 <text x="64" y="300" font-size="22" fill="#566175">Tetouan, Morocco  ·  العربية · Français · English</text>
 </g></svg>

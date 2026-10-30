@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Mohamed Said Yekhlef — Founder of SCAIROS. AI systems for insurance and risk. Agents, automation, decision systems." width="100%">
+  <img src="assets/banner-light.svg" alt="Mohamed Said Yekhlef. I build AI agents, then run companies on them. Founder of SCAIROS, SettlementDecisions, Surplus Clock and AuthorsPack." width="100%">
 </picture>
 
 <p>
@@ -9,57 +9,68 @@
   <a href="mailto:mohamedsaidyekhlef@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-2F5BEA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-I research and build AI systems for **insurance and risk analysis**: agents that read the documents, automation that does the busywork, and decision systems that show their reasoning so a human can sign off with confidence.
+Most people building AI agents are still waiting for a customer to try them. I skip that step: I build the agents, then I start the company that runs on them.
 
-I'm the founder of **[SCAIROS](https://www.scairos.com)**. Before that, and alongside it, I've shipped multi-agent platforms, RAG pipelines and LLM infrastructure for clients. I've been teaching myself computing since 2005.
+That's how I ended up founding four businesses from Tetouan, each in a field where decisions involve real money and real paperwork: structured settlements, Florida tax deed surplus, book publishing, and insurance risk. The agents do the reading, the research and the busywork. People make the calls, with every recommendation showing where it came from.
 
-<br>
-
-## What I work on
-
-**Agents** — specialised agents with clear roles, tools and hand-offs that take a job from raw input to a finished, checked result: claims, underwriting files, policy documents.
-
-**Automation** — pipelines that collect, extract and enrich data on a schedule, so analysts spend their time on judgement instead of copy-paste.
-
-**Decision systems** — risk scoring and recommendations that cite their sources and explain every step, because in insurance an answer nobody can audit is not an answer.
+I've been teaching myself computing since 2005. I still write the code.
 
 <br>
 
-## Building now
+## Companies I founded
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [SCAIROS](https://www.scairos.com)
-AI systems for insurance and risk analysis: agents, automation and decision systems that turn documents and data into decisions people can trust.
+My AI company. Agents, automation and decision systems for insurance and risk analysis that turn documents and data into decisions a human can audit and sign off.
 
 </td>
 <td width="50%" valign="top">
 
-### [diffplay](https://github.com/mohamedsaidyekhlef-png/diffplay)
-[![stars](https://img.shields.io/github/stars/mohamedsaidyekhlef-png/diffplay?style=flat&color=2F5BEA)](https://github.com/mohamedsaidyekhlef-png/diffplay/stargazers)
-[![release](https://img.shields.io/github/v/tag/mohamedsaidyekhlef-png/diffplay?label=release&color=14935F)](https://github.com/mohamedsaidyekhlef-png/diffplay/tags)
-
-Your agent wrote 2,000 lines. Review them in two minutes. Open source: turns any pull request into a guided walkthrough with the risky lines lit up.
+### [SettlementDecisions](https://settlementdecisions.com)
+Helps people who receive structured settlement payments understand their options, and connects them with funding partners. Lead qualification runs on a fine-tuned open model.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [AuthorsPack](https://authorspack.com)
-AI publishing production: agent pipelines for formatting, editing, QA and publishing-ready files.
+### [Surplus Clock](https://surplusclock.com)
+Research on Florida tax deed surplus, the money left over after a property sells at a tax deed auction, for recovery firms, attorneys and lienholders.
 
 </td>
 <td width="50%" valign="top">
 
-### [Surplus Clock](https://surplusclock.com)
-A research service for Florida tax deed surplus funds, built for recovery firms, attorneys and lienholders.
+### [AuthorsPack](https://authorspack.com)
+AI publishing production. Upload a manuscript and agent pipelines handle formatting, editing, QA and publishing-ready files, with every option vetted against professional standards.
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## How I build
+
+**Agents with a job description.** Each agent has one role, the tools for it, and a hand-off to the next. Then checks between every step, because an agent that is confidently wrong costs more than no agent.
+
+**Automation that runs without me.** Research, enrichment, outreach and reporting pipelines on a schedule. If I have to babysit it, it isn't finished.
+
+**Decisions you can audit.** In settlements, surplus funds and insurance, an answer nobody can trace is not an answer. Everything cites its source.
+
+**Own the model when it matters.** Fine-tuned open models where cost, privacy or accuracy demand it; frontier models where reasoning does.
+
+<br>
+
+## Open source
+
+### [diffplay](https://github.com/mohamedsaidyekhlef-png/diffplay)
+[![stars](https://img.shields.io/github/stars/mohamedsaidyekhlef-png/diffplay?style=flat&color=2F5BEA)](https://github.com/mohamedsaidyekhlef-png/diffplay/stargazers)
+[![release](https://img.shields.io/github/v/tag/mohamedsaidyekhlef-png/diffplay?label=release&color=14935F)](https://github.com/mohamedsaidyekhlef-png/diffplay/tags)
+
+Your agent wrote 2,000 lines. Review them in two minutes. diffplay turns any pull request into a guided walkthrough, in the order a human should read it, with the risky lines lit up. I built it because I review a lot of agent-written code.
 
 <br>
 
@@ -76,6 +87,7 @@ A research service for Florida tax deed surplus funds, built for recovery firms,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen%20fine--tuning-615CED?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-141B2A?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -83,7 +95,7 @@ A research service for Florida tax deed surplus funds, built for recovery firms,
 
 ## Let's talk
 
-Working on insurance, risk or anything where an AI decision has to be explainable? I'm open to partnerships, pilots and contract work. **[Connect on LinkedIn](https://www.linkedin.com/in/mohamed-said-yekhlef-476306216/)** or **[email me](mailto:mohamedsaidyekhlef@gmail.com)**. I work in English, French and Arabic.
+Partnerships, investment, or a problem where an AI decision has to hold up to scrutiny: **[connect on LinkedIn](https://www.linkedin.com/in/mohamed-said-yekhlef-476306216/)** or **[email me](mailto:mohamedsaidyekhlef@gmail.com)**. I work in English, French and Arabic.
 
 <br>
 
