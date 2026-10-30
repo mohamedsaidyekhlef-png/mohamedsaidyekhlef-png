@@ -6,62 +6,68 @@
 <p>
   <a href="https://www.linkedin.com/in/mohamed-said-yekhlef-476306216/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
   <a href="mailto:mohamedsaidyekhlef@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-2F5BEA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/mohamedsaidyekhlef-png/diffplay"><img src="https://img.shields.io/github/stars/mohamedsaidyekhlef-png/diffplay?style=for-the-badge&label=diffplay%20stars&color=D3263A" alt="diffplay stars"></a>
 </p>
 
-I work where three skills meet: **building AI systems**, **getting businesses found in AI answers**, and **reading the numbers behind a decision**.
+I work where three skills meet: **building AI systems**, **getting businesses found in AI answers**, and **reading the numbers behind a decision**. Most founders have one and hire for the rest. Having all three is why my companies sit in fields where money and trust are on the line.
 
-Most founders have one of those and hire for the rest. Having all three is why my companies sit in fields where money and trust are on the line: structured settlements, Florida tax deed surplus, and book publishing. The AI does the reading and the research, GEO brings the right people in, and the finance work makes sure the deal actually makes sense.
-
-I've been teaching myself computing since 2005. I still write the code.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
+  <img src="assets/skills-light.svg" alt="Three overlapping skills: AI engineering, GEO and finance. AI that gets cited, models that price risk, traffic that pays for itself. Where all three meet: founder." width="100%">
+</picture>
 
 <br>
 
 ## Companies I founded
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a href="https://settlementdecisions.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-settlement-dark.svg">
+  <img src="assets/card-settlement-light.svg" alt="SettlementDecisions: structured settlement payments, made clear. Options explained, funding partners matched." width="100%">
+</picture>
+</a>
 
-### [SettlementDecisions](https://settlementdecisions.com)
-Helps people who receive structured settlement payments understand their options, and connects them with funding partners. Lead qualification runs on a fine-tuned open model.
+<a href="https://surplusclock.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-surplus-dark.svg">
+  <img src="assets/card-surplus-light.svg" alt="Surplus Clock: Florida tax deed surplus research for recovery firms, attorneys and lienholders." width="100%">
+</picture>
+</a>
 
-</td>
-<td width="50%" valign="top">
-
-### [Surplus Clock](https://surplusclock.com)
-Research on Florida tax deed surplus, the money left over after a property sells at a tax deed auction, for recovery firms, attorneys and lienholders.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### [AuthorsPack](https://authorspack.com)
-AI publishing production. Upload a manuscript and agent pipelines handle formatting, editing, QA and publishing-ready files, with every option vetted against professional standards.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## What I do
-
-**AI engineering** — agents with one job each, the tools for it, and checks between every step. Automation that runs without babysitting. Fine-tuned open models where cost, privacy or accuracy demand it; frontier models where reasoning does.
-
-**GEO, senior level** — Generative Engine Optimization: making brands the answer that ChatGPT, Perplexity, Gemini and Google AI Overviews cite and recommend. Content built to be quoted, structured data, AI-visibility tracking, and the classic SEO underneath it.
-
-**Finance analysis** — cash flows, valuations, unit economics and risk. I model the deal before I build the product, and every number in a recommendation has to trace back to its source.
-
-<br>
+<a href="https://authorspack.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-authors-dark.svg">
+  <img src="assets/card-authors-light.svg" alt="AuthorsPack: AI publishing production. Formatting, editing, QA and publishing-ready files." width="100%">
+</picture>
+</a>
 
 ## Open source
 
-### [diffplay](https://github.com/mohamedsaidyekhlef-png/diffplay)
-[![stars](https://img.shields.io/github/stars/mohamedsaidyekhlef-png/diffplay?style=flat&color=2F5BEA)](https://github.com/mohamedsaidyekhlef-png/diffplay/stargazers)
-[![release](https://img.shields.io/github/v/tag/mohamedsaidyekhlef-png/diffplay?label=release&color=14935F)](https://github.com/mohamedsaidyekhlef-png/diffplay/tags)
+<a href="https://github.com/mohamedsaidyekhlef-png/diffplay">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-diffplay-dark.svg">
+  <img src="assets/card-diffplay-light.svg" alt="diffplay: review AI-written pull requests in minutes. Open source, story-ordered steps, risky lines lit up." width="100%">
+</picture>
+</a>
 
-Your agent wrote 2,000 lines. Review them in two minutes. diffplay turns any pull request into a guided walkthrough, in the order a human should read it, with the risky lines lit up. I built it because I review a lot of agent-written code.
+<br>
+
+## GEO field notes
+
+What actually gets a brand cited by ChatGPT, Perplexity, Gemini and Google AI Overviews. Free, take them.
+
+1. **Write things worth quoting.** The research that named the field ([GEO, KDD 2024](https://arxiv.org/abs/2311.09735)) found that adding citations, quotations and statistics raised visibility in AI answers by up to about 40%, while keyword stuffing did almost nothing.
+2. **Answer in the first two sentences.** Engines lift short, self-contained passages. If the answer is in paragraph four, someone else's page gets quoted instead.
+3. **Be where the models read.** Your own site is one source. Reviews, comparisons, forums and directories that mention you often decide whether you get recommended.
+4. **Make the page easy to parse.** Clean headings, structured data and a plain-text summary help crawlers understand what you are and who you are for.
+5. **Track prompts, not keywords.** Each month, ask the engines the questions your customers ask and record who gets named. That's the scoreboard that matters now.
+
+## Before I build anything, I run the numbers
+
+- **Who pays, how much, and when?** Revenue that arrives in 90 days is a different business from revenue that arrives today.
+- **What does one customer cost to win, and how long until they pay it back?**
+- **What breaks first in the bad case?** I model the downside before the upside.
+- **Can every number in a recommendation be traced to its source?** If not, it doesn't ship.
 
 <br>
 
@@ -82,12 +88,8 @@ Your agent wrote 2,000 lines. Review them in two minutes. diffplay turns any pul
 ![MCP](https://img.shields.io/badge/MCP-141B2A?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<br>
-
 ## Let's talk
 
 Partnerships, investment, a brand that needs to show up in AI answers, or a decision that has to hold up to the numbers: **[connect on LinkedIn](https://www.linkedin.com/in/mohamed-said-yekhlef-476306216/)** or **[email me](mailto:mohamedsaidyekhlef@gmail.com)**. I work in English, French and Arabic.
-
-<br>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=mohamedsaidyekhlef-png&color=2F5BEA&style=flat-square&label=profile+views" alt="Profile views"></p>
