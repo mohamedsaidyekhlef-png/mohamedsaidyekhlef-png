@@ -41,6 +41,13 @@ I work where three skills meet: **building AI systems**, **getting businesses fo
 </picture>
 </a>
 
+<a href="https://www.insoryx.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-insoryx-dark.svg">
+  <img src="assets/card-insoryx-light.svg" alt="Insoryx: commercial insurance costs, made clear. Free AI tools and cost data for contractors, truckers and landlords." width="100%">
+</picture>
+</a>
+
 ## Open source
 
 <a href="https://github.com/mohamedsaidyekhlef-png/diffplay">
@@ -56,7 +63,7 @@ I work where three skills meet: **building AI systems**, **getting businesses fo
 
 What actually gets a brand cited by ChatGPT, Perplexity, Gemini and Google AI Overviews. Free, take them.
 
-1. **Write things worth quoting.** The research that named the field ([GEO, KDD 2024](https://arxiv.org/abs/2311.09735)) found that adding citations, quotations and statistics raised visibility in AI answers by up to about 40%, while keyword stuffing did almost nothing.
+1. **Write things worth quoting.** The research that named the field ([GEO, KDD 2024](https://arxiv.org/abs/2311.09735)) found that adding citations, quotations and statistics raised visibility in AI answers by up to about 40%, while keyword stuffing did almost nothing. Example: the [Insoryx Small Business Insurance Cost Index 2026](https://www.insoryx.com/research/insurance-cost-index), one sourced number per business type, free to quote.
 2. **Answer in the first two sentences.** Engines lift short, self-contained passages. If the answer is in paragraph four, someone else's page gets quoted instead.
 3. **Be where the models read.** Your own site is one source. Reviews, comparisons, forums and directories that mention you often decide whether you get recommended.
 4. **Make the page easy to parse.** Clean headings, structured data and a plain-text summary help crawlers understand what you are and who you are for.
